@@ -1,0 +1,72 @@
+[
+  {
+    "id": "BaselIII_Endgame",
+    "name": "Basel III: Finalising Post-Crisis Reforms",
+    "url": "https://www.bis.org/bcbs/publ/d457.pdf"
+  },
+  {
+    "id": "DoddFrank",
+    "name": "Dodd-Frank Wall Street Reform and Consumer Protection Act",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-111publ203/pdf/PLAW-111publ203.pdf"
+  },
+  {
+    "id": "BSA_AML",
+    "name": "Bank Secrecy Act / Anti-Money Laundering",
+    "url": "https://www.fincen.gov/sites/default/files/statutes_regs/ammendments/Bank%20Secrecy%20Act.pdf"
+  },
+  {
+    "id": "GLBA",
+    "name": "Gramm-Leach-Bliley Act",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-106publ102/pdf/PLAW-106publ102.pdf"
+  },
+  {
+    "id": "CRA",
+    "name": "Community Reinvestment Act",
+    "url": "https://www.ffiec.gov/cra/pdf/CRA_Booklet.pdf"
+  },
+  {
+    "id": "SOX",
+    "name": "Sarbanes-Oxley Act",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ204/pdf/PLAW-107publ204.pdf"
+  },
+  {
+    "id": "GDPR",
+    "name": "General Data Protection Regulation",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679"
+  },
+  {
+    "id": "PSD2",
+    "name": "Payment Services Directive 2",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015L2366"
+  },
+  {
+    "id": "MiFIDII",
+    "name": "Markets in Financial Instruments Directive II",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0065"
+  },
+  {
+    "id": "CFPB_1071",
+    "name": "CFPB Section 1071",
+    "url": "https://www.consumerfinance.gov/rules-policy/final-rules/1071-small-business-lending-data-collection/"
+  },
+  {
+    "id": "FDIC_Signage",
+    "name": "FDIC Signage Rule",
+    "url": "https://www.fdic.gov/regulations/resources/director/12cfr328/"
+  },
+  {
+    "id": "DORA",
+    "name": "Digital Operational Resilience Act",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32024R2103"
+  },
+  {
+    "id": "AMLD6",
+    "name": "6th Anti-Money Laundering Directive",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018L843"
+  },
+  {
+    "id": "MiCA",
+    "name": "Markets in Crypto-Assets Regulation",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0980"
+  }
+]
