@@ -1,5 +1,6 @@
 
 import streamlit as st
+from modules.regulations.download_regulations import download_all
 
 st.title("🛡️ Compliance Certification Toolkit")
 
