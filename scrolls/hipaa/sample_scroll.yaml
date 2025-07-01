@@ -1,0 +1,4 @@
+section: '164.306'
+title: 'Security standards: General rules'
+requirement: 'Ensure confidentiality, integrity, and availability of ePHI'
+impact_weight: 4
