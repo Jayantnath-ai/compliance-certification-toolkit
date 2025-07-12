@@ -1,7 +1,11 @@
 import sys
 import os
-import logging
 from pathlib import Path
+# Add project root to Python path
+project_root = str(Path(__file__).parent)
+sys.path.append(project_root)
+
+import logging
 from typing import List, Optional
 from engine.scroll_runner import ScrollRunner
 from engine.fork_evaluator import ForkEvaluator
@@ -116,4 +120,6 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Run compliance evaluation for an organization")
     parser.add_argument("--org", default="Example Corp", help="Organization name")
-    parser.add_argument("--target-type", default="process", choices=["process", "system"], help="Target type (process or
+    parser.add_argument("--target-type", default="process", choices=["process", "system"], help="Target type (process or system)")
+    args = parser.parse_args()
+    main(args.org, args.target_type)
